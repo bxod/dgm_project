@@ -38,8 +38,8 @@ Our structured prompting strategy nearly **doubled** the compositional accuracy 
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/bxod/dgm_project.git
+    cd dgm_project
     ```
 
 2.  **Install dependencies:**
@@ -89,7 +89,7 @@ python step2_generate_images.py
 Evaluate the generated images using Qwen2.5-VL-7B as a judge.
 
 ```bash
-python step3_evaluate.py
+python judge_images.py
 ```
 
 *Output:* `output_scores/final_results_soft.json` and a console report table.

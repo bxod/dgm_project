@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "Attribute_0",
+    "category": "Attribute",
+    "simple_prompt": "a green bench and a red car",
+    "smart_prompt": "Split view, a green bench on the left, a red car on the right."
+  },
+  {
+    "id": "Attribute_1",
+    "category": "Attribute",
+    "simple_prompt": "a red bench and a green car",
+    "smart_prompt": "Split view, a red bench on the left, a green car on the right."
+  },
+  {
+    "id": "Attribute_2",
+    "category": "Attribute",
+    "simple_prompt": "a green bench and a blue car",
+    "smart_prompt": "Split view, a green bench on the left, a blue car on the right."
+  },
+  {
+    "id": "Attribute_3",
+    "category": "Attribute",
+    "simple_prompt": "a blue bench and a green car",
+    "smart_prompt": "Split view, a blue bench on the left, a green car on the right."
+  },
+  {
+    "id": "Attribute_4",
+    "category": "Attribute",
+    "simple_prompt": "a red car and a gold clock",
+    "smart_prompt": "A vintage crimson 1960s car, glossy paint, parked beside an ornate, gleaming gold grandfather clock."
+  },
+  {
+    "id": "Attribute_5",
+    "category": "Attribute",
+    "simple_prompt": "a gold car and a red clock",
+    "smart_prompt": "Split view, a gold car on the left, a red clock on the right."
+  },
+  {
+    "id": "Attribute_6",
+    "category": "Attribute",
+    "simple_prompt": "a red car and a brown clock",
+    "smart_prompt": "Split view, a red car on the left, a brown clock on the right."
+  },
+  {
+    "id": "Attribute_7",
+    "category": "Attribute",
+    "simple_prompt": "a brown car and a red clock",
+    "smart_prompt": "Split view, a brown car on the left, a red clock on the right."
+  },
+  {
+    "id": "Attribute_8",
+    "category": "Attribute",
+    "simple_prompt": "a red car and a brown elephant",
+    "smart_prompt": "A red car parked next to a brown elephant."
+  },
+  {
+    "id": "Attribute_9",
+    "category": "Attribute",
+    "simple_prompt": "a brown car and a red elephant",
+    "smart_prompt": "Split view, a brown car on the left, a red elephant on the right."
+  },
+  {
+    "id": "Attribute_10",
+    "category": "Attribute",
+    "simple_prompt": "a red car and a pink elephant",
+    "smart_prompt": "Split view, a red car on the left, a pink elephant on the right."
+  },
+  {
+    "id": "Attribute_11",
+    "category": "Attribute",
+    "simple_prompt": "a pink car and a red elephant",
+    "smart_prompt": "Split view, a pink car on the left, a red elephant on the right."
+  },
+  {
+    "id": "Attribute_12",
+    "category": "Attribute",
+    "simple_prompt": "a green bench and a brown dog",
+    "smart_prompt": "A brown dog sitting on a green bench."
+  },
+  {
+    "id": "Attribute_13",
+    "category": "Attribute",
+    "simple_prompt": "a brown bench and a green dog",
+    "smart_prompt": "A green dog sitting on a brown bench."
+  },
+  {
+    "id": "Attribute_14",
+    "category": "Attribute",
+    "simple_prompt": "a green bench and a yellow dog",
+    "smart_prompt": "A yellow dog sitting on a green bench."
+  },
+  {
+    "id": "Attribute_15",
+    "category": "Attribute",
+    "simple_prompt": "a yellow bench and a green dog",
+    "smart_prompt": "A green dog sitting on a yellow bench."
+  },
+  {
+    "id": "Attribute_16",
+    "category": "Attribute",
+    "simple_prompt": "a brown dog and a blue horse",
+    "smart_prompt": "Split view, a brown dog on the left, a blue horse on the right."
+  },
+  {
+    "id": "Attribute_17",
+    "category": "Attribute",
+    "simple_prompt": "a blue dog and a brown horse",
+    "smart_prompt": "Split view, a blue dog on the left, a brown horse on the right."
+  },
+  {
+    "id": "Attribute_18",
+    "category": "Attribute",
+    "simple_prompt": "a yellow dog and a brown horse",
+    "smart_prompt": "Split view, a yellow dog on the left, a brown horse on the right."
+  },
+  {
+    "id": "Attribute_19",
+    "category": "Attribute",
+    "simple_prompt": "a brown dog and a yellow horse",
+    "smart_prompt": "Split view, a brown dog on the left, a yellow horse on the right."
+  },
+  {
+    "id": "Attribute_20",
+    "category": "Attribute",
+    "simple_prompt": "a red chair and a brown dog",
+    "smart_prompt": "A brown dog sitting on a red chair."
+  },
+  {
+    "id": "Attribute_21",
+    "category": "Attribute",
+    "simple_prompt": "a brown chair and a red dog",
+    "smart_prompt": "A red dog sitting on a brown chair."
+  },
+  {
+    "id": "Attribute_22",
+    "category": "Attribute",
+    "simple_prompt": "a red chair and a yellow dog",
+    "smart_prompt": "A yellow dog sitting on a red chair."
+  },
+  {
+    "id": "Attribute_23",
+    "category": "Attribute",
+    "simple_prompt": "a yellow chair and a red dog",
+    "smart_prompt": "A vibrant yellow, mid-century modern armchair. Beside it, a playful, fluffy red dog with a wagging tail."
+  },
+  {
+    "id": "Attribute_24",
+    "category": "Attribute",
+    "simple_prompt": "a green bench and a red train",
+    "smart_prompt": "Split view, a green bench on the left, a red train on the right."
+  },
+  {
+    "id": "Attribute_25",
+    "category": "Attribute",
+    "simple_prompt": "a red bench and a green train",
+    "smart_prompt": "Split view, a red bench on the left, a green train on the right."
+  },
+  {
+    "id": "Attribute_26",
+    "category": "Attribute",
+    "simple_prompt": "a green bench and a yellow train",
+    "smart_prompt": "Split view, a green bench on the left, a yellow train on the right."
+  },
+  {
+    "id": "Attribute_27",
+    "category": "Attribute",
+    "simple_prompt": "a yellow bench and a green train",
+    "smart_prompt": "Split view, a yellow bench on the left, a green train on the right."
+  },
+  {
+    "id": "Attribute_28",
+    "category": "Attribute",
+    "simple_prompt": "a green bench and a blue boat",
+    "smart_prompt": "Split view, a green bench on the left, a blue boat on the right."
+  },
+  {
+    "id": "Attribute_29",
+    "category": "Attribute",
+    "simple_prompt": "a blue bench and a green boat",
+    "smart_prompt": "Split view, a blue bench on the left, a green boat on the right."
+  },
+  {
+    "id": "Attribute_30",
+    "category": "Attribute",
+    "simple_prompt": "a green bench and a red boat",
+    "smart_prompt": "Split view, a green bench on the left, a red boat on the right."
+  },
+  {
+    "id": "Attribute_31",
+    "category": "Attribute",
+    "simple_prompt": "a red bench and a green boat",
+    "smart_prompt": "A red bench and a green boat, distinct colors, simple background."
+  },
+  {
+    "id": "Attribute_32",
+    "category": "Attribute",
+    "simple_prompt": "a gold clock and a blue vase",
+    "smart_prompt": "Split view, a gold clock on the left, a blue vase on the right."
+  },
+  {
+    "id": "Attribute_33",
+    "category": "Attribute",
+    "simple_prompt": "a blue clock and a gold vase",
+    "smart_prompt": "Split view, a blue clock on the left, a gold vase on the right."
+  },
+  {
+    "id": "Attribute_34",
+    "category": "Attribute",
+    "simple_prompt": "a gold clock and a green vase",
+    "smart_prompt": "Split view, a gold clock on the left, a green vase on the right."
+  },
+  {
+    "id": "Attribute_35",
+    "category": "Attribute",
+    "simple_prompt": "a green clock and a gold vase",
+    "smart_prompt": "A vibrant green antique clock, facing right, beside a shimmering gold vase, facing left, on a polished wooden table."
+  },
+  {
+    "id": "Attribute_36",
+    "category": "Attribute",
+    "simple_prompt": "a red car and a brown cow",
+    "smart_prompt": "Split view, a red car on the left, a brown cow on the right."
+  },
+  {
+    "id": "Attribute_37",
+    "category": "Attribute",
+    "simple_prompt": "a brown car and a red cow",
+    "smart_prompt": "Split view, a brown car on the left, a red cow on the right."
+  },
+  {
+    "id": "Attribute_38",
+    "category": "Attribute",
+    "simple_prompt": "a blue car and a brown cow",
+    "smart_prompt": "Split view, a blue car on the left, a brown cow on the right."
+  },
+  {
+    "id": "Attribute_39",
+    "category": "Attribute",
+    "simple_prompt": "a brown car and a blue cow",
+    "smart_prompt": "Split view, a brown car on the left, a blue cow on the right."
+  },
+  {
+    "id": "Attribute_40",
+    "category": "Attribute",
+    "simple_prompt": "a red bird and a brown giraffe",
+    "smart_prompt": "A red bird and a brown giraffe, distinct colors, simple background."
+  },
+  {
+    "id": "Attribute_41",
+    "category": "Attribute",
+    "simple_prompt": "a brown bird and a red giraffe",
+    "smart_prompt": "Split view, a brown bird on the left, a red giraffe on the right."
+  },
+  {
+    "id": "Attribute_42",
+    "category": "Attribute",
+    "simple_prompt": "a brown cow and a pink sheep",
+    "smart_prompt": "Split view, a brown cow on the left, a pink sheep on the right."
+  },
+  {
+    "id": "Attribute_43",
+    "category": "Attribute",
+    "simple_prompt": "a pink cow and a brown sheep",
+    "smart_prompt": "Split view, a pink cow on the left, a brown sheep on the right."
+  },
+  {
+    "id": "Attribute_44",
+    "category": "Attribute",
+    "simple_prompt": "a red cow and a brown sheep",
+    "smart_prompt": "Split view, a red cow on the left, a brown sheep on the right."
+  },
+  {
+    "id": "Attribute_45",
+    "category": "Attribute",
+    "simple_prompt": "a brown cow and a red sheep",
+    "smart_prompt": "Split view, a brown cow on the left, a red sheep on the right."
+  },
+  {
+    "id": "Attribute_46",
+    "category": "Attribute",
+    "simple_prompt": "a blue boat and a red car",
+    "smart_prompt": "Split view, a blue boat on the left, a red car on the right."
+  },
+  {
+    "id": "Attribute_47",
+    "category": "Attribute",
+    "simple_prompt": "a red boat and a blue car",
+    "smart_prompt": "Split view, a red boat on the left, a blue car on the right."
+  },
+  {
+    "id": "Attribute_48",
+    "category": "Attribute",
+    "simple_prompt": "a red boat and a blue car",
+    "smart_prompt": "Split view, a red boat on the left, a blue car on the right."
+  },
+  {
+    "id": "Attribute_49",
+    "category": "Attribute",
+    "simple_prompt": "a blue boat and a red car",
+    "smart_prompt": "Split view, a blue boat on the left, a red car on the right."
+  },
+  {
+    "id": "Attribute_50",
+    "category": "Attribute",
+    "simple_prompt": "a blue bowl and a red cup",
+    "smart_prompt": "Split view, a blue bowl on the left, a red cup on the right."
+  },
+  {
+    "id": "Attribute_51",
+    "category": "Attribute",
+    "simple_prompt": "a red bowl and a blue cup",
+    "smart_prompt": "Split view, a red bowl on the left, a blue cup on the right."
+  },
+  {
+    "id": "Attribute_52",
+    "category": "Attribute",
+    "simple_prompt": "a red bowl and a blue cup",
+    "smart_prompt": "Split view, a red bowl on the left, a blue cup on the right."
+  },
+  {
+    "id": "Attribute_53",
+    "category": "Attribute",
+    "simple_prompt": "a blue bowl and a red cup",
+    "smart_prompt": "Split view, a blue bowl on the left, a red cup on the right."
+  },
+  {
+    "id": "Attribute_54",
+    "category": "Attribute",
+    "simple_prompt": "a green bench and a brown cat",
+    "smart_prompt": "A vibrant lime green park bench, with a fluffy, sleek brown tabby cat curled up on the seat."
+  },
+  {
+    "id": "Attribute_55",
+    "category": "Attribute",
+    "simple_prompt": "a brown bench and a green cat",
+    "smart_prompt": "A green cat sitting on a brown bench."
+  },
+  {
+    "id": "Attribute_56",
+    "category": "Attribute",
+    "simple_prompt": "a green bench and a yellow cat",
+    "smart_prompt": "A yellow cat sitting on a green bench."
+  },
+  {
+    "id": "Attribute_57",
+    "category": "Attribute",
+    "simple_prompt": "a yellow bench and a green cat",
+    "smart_prompt": "A green cat sitting on a yellow bench."
+  },
+  {
+    "id": "Attribute_58",
+    "category": "Attribute",
+    "simple_prompt": "a red car and a brown sheep",
+    "smart_prompt": "A red car and a brown sheep, distinct colors, outdoor."
+  },
+  {
+    "id": "Attribute_59",
+    "category": "Attribute",
+    "simple_prompt": "a brown car and a red sheep",
+    "smart_prompt": "Split view, a brown car on the left, a red sheep on the right."
+  },
+  {
+    "id": "Attribute_60",
+    "category": "Attribute",
+    "simple_prompt": "a red car and a pink sheep",
+    "smart_prompt": "A red car and a pink sheep, distinct colors, simple background."
+  },
+  {
+    "id": "Attribute_61",
+    "category": "Attribute",
+    "simple_prompt": "a pink car and a red sheep",
+    "smart_prompt": "A pink car and a red sheep, distinct colors, outdoor."
+  },
+  {
+    "id": "Attribute_62",
+    "category": "Attribute",
+    "simple_prompt": "a brown cat and a yellow dog",
+    "smart_prompt": "Split view, a brown cat on the left, a yellow dog on the right."
+  },
+  {
+    "id": "Attribute_63",
+    "category": "Attribute",
+    "simple_prompt": "a yellow cat and a brown dog",
+    "smart_prompt": "Split view, a yellow cat on the left, a brown dog on the right."
+  },
+  {
+    "id": "Attribute_64",
+    "category": "Attribute",
+    "simple_prompt": "a yellow cat and a brown dog",
+    "smart_prompt": "Split view, a yellow cat on the left, a brown dog on the right."
+  },
+  {
+    "id": "Attribute_65",
+    "category": "Attribute",
+    "simple_prompt": "a brown cat and a yellow dog",
+    "smart_prompt": "Split view, a brown cat on the left, a yellow dog on the right."
+  },
+  {
+    "id": "Attribute_66",
+    "category": "Attribute",
+    "simple_prompt": "a blue bowl and a brown cat",
+    "smart_prompt": "A vibrant blue ceramic bowl sits on a rustic wooden table beside a fluffy brown tabby cat."
+  },
+  {
+    "id": "Attribute_67",
+    "category": "Attribute",
+    "simple_prompt": "a brown bowl and a blue cat",
+    "smart_prompt": "Split view, a brown bowl on the left, a blue cat on the right."
+  },
+  {
+    "id": "Attribute_68",
+    "category": "Attribute",
+    "simple_prompt": "a blue bowl and a yellow cat",
+    "smart_prompt": "Split view, a blue bowl on the left, a yellow cat on the right."
+  },
+  {
+    "id": "Attribute_69",
+    "category": "Attribute",
+    "simple_prompt": "a yellow bowl and a blue cat",
+    "smart_prompt": "Split view, a yellow bowl on the left, a blue cat on the right."
+  },
+  {
+    "id": "Attribute_70",
+    "category": "Attribute",
+    "simple_prompt": "a brown cow and a blue horse",
+    "smart_prompt": "Split view, a brown cow on the left, a blue horse on the right."
+  },
+  {
+    "id": "Attribute_71",
+    "category": "Attribute",
+    "simple_prompt": "a blue cow and a brown horse",
+    "smart_prompt": "Split view, a blue cow on the left, a brown horse on the right."
+  },
+  {
+    "id": "Attribute_72",
+    "category": "Attribute",
+    "simple_prompt": "a red cow and a brown horse",
+    "smart_prompt": "Split view, a red cow on the left, a brown horse on the right."
+  },
+  {
+    "id": "Attribute_73",
+    "category": "Attribute",
+    "simple_prompt": "a brown cow and a red horse",
+    "smart_prompt": "Split view, a brown cow on the left, a red horse on the right."
+  },
+  {
+    "id": "Attribute_74",
+    "category": "Attribute",
+    "simple_prompt": "a red book and a gold clock",
+    "smart_prompt": "A vintage crimson book lies next to an ornate golden clock, Roman numerals, intricate filigree, soft lighting."
+  },
+  {
+    "id": "Attribute_75",
+    "category": "Attribute",
+    "simple_prompt": "a gold book and a red clock",
+    "smart_prompt": "Split view, a gold book on the left, a red clock on the right."
+  },
+  {
+    "id": "Attribute_76",
+    "category": "Attribute",
+    "simple_prompt": "a red book and a brown clock",
+    "smart_prompt": "A red book and a brown clock, distinct colors, indoor."
+  },
+  {
+    "id": "Attribute_77",
+    "category": "Attribute",
+    "simple_prompt": "a brown book and a red clock",
+    "smart_prompt": "Split view, a brown book on the left, a red clock on the right."
+  },
+  {
+    "id": "Attribute_78",
+    "category": "Attribute",
+    "simple_prompt": "a red chair and a gold clock",
+    "smart_prompt": "A plush, antique crimson armchair beside an ornate, gilded grandfather clock, subtly reflecting light."
+  },
+  {
+    "id": "Attribute_79",
+    "category": "Attribute",
+    "simple_prompt": "a gold chair and a red clock",
+    "smart_prompt": "Split view, a gold chair on the left, a red clock on the right."
+  },
+  {
+    "id": "Attribute_80",
+    "category": "Attribute",
+    "simple_prompt": "a red chair and a brown clock",
+    "smart_prompt": "A vibrant cherry-red mid-century modern armchair, beside a vintage mahogany wood grandfather clock."
+  },
+  {
+    "id": "Attribute_81",
+    "category": "Attribute",
+    "simple_prompt": "a brown chair and a red clock",
+    "smart_prompt": "A brown chair and a red clock, distinct colors, simple background."
+  },
+  {
+    "id": "Attribute_82",
+    "category": "Attribute",
+    "simple_prompt": "a brown bird and a pink elephant",
+    "smart_prompt": "Split view, a brown bird on the left, a pink elephant on the right."
+  },
+  {
+    "id": "Attribute_83",
+    "category": "Attribute",
+    "simple_prompt": "a pink bird and a brown elephant",
+    "smart_prompt": "A pink bird on the left, a brown elephant on the right."
+  },
+  {
+    "id": "Attribute_84",
+    "category": "Attribute",
+    "simple_prompt": "a red bird and a brown elephant",
+    "smart_prompt": "A vibrant crimson cardinal perches on the back of a majestic, earthy brown elephant, under soft daylight."
+  },
+  {
+    "id": "Attribute_85",
+    "category": "Attribute",
+    "simple_prompt": "a brown bird and a red elephant",
+    "smart_prompt": "Split view, a brown bird on the left, a red elephant on the right."
+  },
+  {
+    "id": "Attribute_86",
+    "category": "Attribute",
+    "simple_prompt": "a red car and a brown cat",
+    "smart_prompt": "A red car and a brown cat, distinct colors, outdoor."
+  },
+  {
+    "id": "Attribute_87",
+    "category": "Attribute",
+    "simple_prompt": "a brown car and a red cat",
+    "smart_prompt": "Split view, a brown car on the left, a red cat on the right."
+  },
+  {
+    "id": "Attribute_88",
+    "category": "Attribute",
+    "simple_prompt": "a red car and a yellow cat",
+    "smart_prompt": "A vibrant red 1960s sports car parked beside a playful yellow tabby cat."
+  },
+  {
+    "id": "Attribute_89",
+    "category": "Attribute",
+    "simple_prompt": "a yellow car and a red cat",
+    "smart_prompt": "Split view, a yellow car on the left, a red cat on the right."
+  },
+  {
+    "id": "Attribute_90",
+    "category": "Attribute",
+    "simple_prompt": "a brown cow and a yellow dog",
+    "smart_prompt": "Split view, a brown cow on the left, a yellow dog on the right."
+  },
+  {
+    "id": "Attribute_91",
+    "category": "Attribute",
+    "simple_prompt": "a yellow cow and a brown dog",
+    "smart_prompt": "Split view, a yellow cow on the left, a brown dog on the right."
+  },
+  {
+    "id": "Attribute_92",
+    "category": "Attribute",
+    "simple_prompt": "a red cow and a brown dog",
+    "smart_prompt": "Split view, a red cow on the left, a brown dog on the right."
+  },
+  {
+    "id": "Attribute_93",
+    "category": "Attribute",
+    "simple_prompt": "a brown cow and a red dog",
+    "smart_prompt": "Split view, a brown cow on the left, a red dog on the right."
+  },
+  {
+    "id": "Attribute_94",
+    "category": "Attribute",
+    "simple_prompt": "a green bench and a brown bird",
+    "smart_prompt": "A brown bird sitting on a green bench."
+  },
+  {
+    "id": "Attribute_95",
+    "category": "Attribute",
+    "simple_prompt": "a brown bench and a green bird",
+    "smart_prompt": "A green bird sitting on a brown bench."
+  },
+  {
+    "id": "Attribute_96",
+    "category": "Attribute",
+    "simple_prompt": "a green bench and a red bird",
+    "smart_prompt": "A green bench and a red bird, distinct colors, outdoor."
+  },
+  {
+    "id": "Attribute_97",
+    "category": "Attribute",
+    "simple_prompt": "a red bench and a green bird",
+    "smart_prompt": "A green bird sitting on a red bench."
+  },
+  {
+    "id": "Attribute_98",
+    "category": "Attribute",
+    "simple_prompt": "a green bench and a red book",
+    "smart_prompt": "A green bench and a red book, distinct colors, simple background."
+  },
+  {
+    "id": "Attribute_99",
+    "category": "Attribute",
+    "simple_prompt": "a red bench and a green book",
+    "smart_prompt": "A green book lying on a red bench."
+  },
+  {
+    "id": "Spatial_0",
+    "category": "Spatial",
+    "simple_prompt": "a balloon on the top of a giraffe",
+    "smart_prompt": "A balloon above a giraffe, balloon top, giraffe bottom, simple background."
+  },
+  {
+    "id": "Spatial_1",
+    "category": "Spatial",
+    "simple_prompt": "a suitcase on the top of a frog",
+    "smart_prompt": "A small green frog carrying a large suitcase on its back."
+  },
+  {
+    "id": "Spatial_2",
+    "category": "Spatial",
+    "simple_prompt": "a horse on the right of a man",
+    "smart_prompt": "A man on the left, a horse on the right, simple background."
+  },
+  {
+    "id": "Spatial_3",
+    "category": "Spatial",
+    "simple_prompt": "a rabbit next to a balloon",
+    "smart_prompt": "A rabbit sitting immediately next to a balloon."
+  },
+  {
+    "id": "Spatial_4",
+    "category": "Spatial",
+    "simple_prompt": "a rabbit on the top of a bicycle",
+    "smart_prompt": "A fluffy rabbit, ears perked, balancing on a vintage bicycle's seat, in a sun-drenched park."
+  },
+  {
+    "id": "Spatial_5",
+    "category": "Spatial",
+    "simple_prompt": "a bee on the left of a girl",
+    "smart_prompt": "A bee on the left, a girl on the right, simple background."
+  },
+  {
+    "id": "Spatial_6",
+    "category": "Spatial",
+    "simple_prompt": "a mouse on the bottom of a painting",
+    "smart_prompt": "A mouse sitting on the floor directly underneath a wall painting."
+  },
+  {
+    "id": "Spatial_7",
+    "category": "Spatial",
+    "simple_prompt": "a fish on side of a painting",
+    "smart_prompt": "A fish mounted on the wall to the side of a painting."
+  },
+  {
+    "id": "Spatial_8",
+    "category": "Spatial",
+    "simple_prompt": "a chicken on the bottom of a desk",
+    "smart_prompt": "A tiny, fluffy chick, light yellow with small black eyes, standing on a dusty, dark brown wooden floor beneath a sturdy oak desk."
+  },
+  {
+    "id": "Spatial_9",
+    "category": "Spatial",
+    "simple_prompt": "a chicken near a desk",
+    "smart_prompt": "A chicken near a desk, simple background."
+  },
+  {
+    "id": "Spatial_10",
+    "category": "Spatial",
+    "simple_prompt": "a chicken on the top of a balloon",
+    "smart_prompt": "A chicken balancing on top of a balloon."
+  },
+  {
+    "id": "Spatial_11",
+    "category": "Spatial",
+    "simple_prompt": "a horse near a lamp",
+    "smart_prompt": "Majestic horse, dappled light, standing beside an ornate, glowing gas lamp, soft focus, cinematic."
+  },
+  {
+    "id": "Spatial_12",
+    "category": "Spatial",
+    "simple_prompt": "a cow next to a train",
+    "smart_prompt": "A photorealistic Angus cow stands beside a vintage steam train, under a blue sky."
+  },
+  {
+    "id": "Spatial_13",
+    "category": "Spatial",
+    "simple_prompt": "a vase on the left of a pig",
+    "smart_prompt": "Split view, a vase on the left, a pig on the right."
+  },
+  {
+    "id": "Spatial_14",
+    "category": "Spatial",
+    "simple_prompt": "a sheep on the top of a airplane",
+    "smart_prompt": "A sheep standing on the roof of an airplane."
+  },
+  {
+    "id": "Spatial_15",
+    "category": "Spatial",
+    "simple_prompt": "a cow on the bottom of a man",
+    "smart_prompt": "A cow lying on the ground beneath a man."
+  },
+  {
+    "id": "Spatial_16",
+    "category": "Spatial",
+    "simple_prompt": "a painting on the right of a bee",
+    "smart_prompt": "A vibrant, detailed oil painting on the right, depicting a realistic bee mid-flight, against a soft, blurred natural background."
+  },
+  {
+    "id": "Spatial_17",
+    "category": "Spatial",
+    "simple_prompt": "a woman on the left of a sheep",
+    "smart_prompt": "A woman standing to the left of a sheep, side by side."
+  },
+  {
+    "id": "Spatial_18",
+    "category": "Spatial",
+    "simple_prompt": "a phone on the left of a boy",
+    "smart_prompt": "A smartphone, screen facing up, rests to the immediate left of a young boy."
+  },
+  {
+    "id": "Spatial_19",
+    "category": "Spatial",
+    "simple_prompt": "a giraffe on the right of a girl",
+    "smart_prompt": "A girl on the left, a giraffe on the right, simple background."
+  },
+  {
+    "id": "Spatial_20",
+    "category": "Spatial",
+    "simple_prompt": "a plate on the right of a bee",
+    "smart_prompt": "A bee on the left, a plate on the right, simple background."
+  },
+  {
+    "id": "Spatial_21",
+    "category": "Spatial",
+    "simple_prompt": "a train on the left of a boy",
+    "smart_prompt": "A train on the left, a boy on the right, simple background."
+  },
+  {
+    "id": "Spatial_22",
+    "category": "Spatial",
+    "simple_prompt": "a bicycle on the left of a bird",
+    "smart_prompt": "A bicycle on the left, a bird on the right, simple background."
+  },
+  {
+    "id": "Spatial_23",
+    "category": "Spatial",
+    "simple_prompt": "a computer on the top of a sheep",
+    "smart_prompt": "A computer balanced on the back of a sheep."
+  },
+  {
+    "id": "Spatial_24",
+    "category": "Spatial",
+    "simple_prompt": "a rabbit on the top of a book",
+    "smart_prompt": "A fluffy rabbit with long ears sits on a vintage, leather-bound book, detailed fur, soft lighting."
+  },
+  {
+    "id": "Spatial_25",
+    "category": "Spatial",
+    "simple_prompt": "a couch on the right of a turtle",
+    "smart_prompt": "A turtle on the left, a couch on the right, simple background."
+  },
+  {
+    "id": "Spatial_26",
+    "category": "Spatial",
+    "simple_prompt": "a girl on the left of a frog",
+    "smart_prompt": "A cute, young girl with braided hair, on the left of a frog, in a lush green garden."
+  },
+  {
+    "id": "Spatial_27",
+    "category": "Spatial",
+    "simple_prompt": "a bowl on the right of a chicken",
+    "smart_prompt": "A chicken on the left, a bowl on the right, simple background."
+  },
+  {
+    "id": "Spatial_28",
+    "category": "Spatial",
+    "simple_prompt": "a airplane on the left of a turtle",
+    "smart_prompt": "A airplane on the left, a turtle on the right, simple background."
+  },
+  {
+    "id": "Spatial_29",
+    "category": "Spatial",
+    "simple_prompt": "a chicken on the top of a bicycle",
+    "smart_prompt": "A majestic rooster, perched regally atop a vintage bicycle, in a sun-drenched pastoral setting."
+  },
+  {
+    "id": "Spatial_30",
+    "category": "Spatial",
+    "simple_prompt": "a cup on the left of a fish",
+    "smart_prompt": "Split view, a cup on the left, a fish on the right."
+  },
+  {
+    "id": "Spatial_31",
+    "category": "Spatial",
+    "simple_prompt": "a boy on the top of a bag",
+    "smart_prompt": "A young boy, aged 7, sitting triumphantly atop a large, brown, woven sack of potatoes, dappled sunlight."
+  },
+  {
+    "id": "Spatial_32",
+    "category": "Spatial",
+    "simple_prompt": "a sheep near a car",
+    "smart_prompt": "A sheep next to a car, side by side, simple background."
+  },
+  {
+    "id": "Spatial_33",
+    "category": "Spatial",
+    "simple_prompt": "a computer on the bottom of a horse",
+    "smart_prompt": "A computer lying on the ground underneath a horse."
+  },
+  {
+    "id": "Spatial_34",
+    "category": "Spatial",
+    "simple_prompt": "a girl on the left of a bee",
+    "smart_prompt": "Split view, a girl on the left, a bee on the right."
+  },
+  {
+    "id": "Spatial_35",
+    "category": "Spatial",
+    "simple_prompt": "a bag on the bottom of a chicken",
+    "smart_prompt": "A chicken sitting on top of a bag."
+  },
+  {
+    "id": "Spatial_36",
+    "category": "Spatial",
+    "simple_prompt": "a backpack on the right of a bird",
+    "smart_prompt": "A bird on the left, a backpack on the right, simple background."
+  },
+  {
+    "id": "Spatial_37",
+    "category": "Spatial",
+    "simple_prompt": "a giraffe on the top of a man",
+    "smart_prompt": "A giraffe standing on top of a man's shoulders."
+  },
+  {
+    "id": "Spatial_38",
+    "category": "Spatial",
+    "simple_prompt": "a wallet on the right of a bee",
+    "smart_prompt": "A bee on the left, a wallet on the right, simple background."
+  },
+  {
+    "id": "Spatial_39",
+    "category": "Spatial",
+    "simple_prompt": "a fish on the left of a microwave",
+    "smart_prompt": "A fish on the left, a microwave on the right, simple background."
+  },
+  {
+    "id": "Spatial_40",
+    "category": "Spatial",
+    "simple_prompt": "a dog on the top of a suitcase",
+    "smart_prompt": "A fluffy golden retriever, perched majestically atop a vintage leather suitcase, bathed in warm sunlight."
+  },
+  {
+    "id": "Spatial_41",
+    "category": "Spatial",
+    "simple_prompt": "a turtle on the left of a painting",
+    "smart_prompt": "A turtle on the left, a painting on the right, simple background."
+  },
+  {
+    "id": "Spatial_42",
+    "category": "Spatial",
+    "simple_prompt": "a fish on the top of a bowl",
+    "smart_prompt": "A fish on top of a bowl, fish top, bowl bottom, simple background."
+  },
+  {
+    "id": "Spatial_43",
+    "category": "Spatial",
+    "simple_prompt": "a bee on the top of a airplane",
+    "smart_prompt": "A giant bee landing on top of an airplane."
+  },
+  {
+    "id": "Spatial_44",
+    "category": "Spatial",
+    "simple_prompt": "a television on the right of a cow",
+    "smart_prompt": "A cow on the left, a television on the right, simple background."
+  },
+  {
+    "id": "Spatial_45",
+    "category": "Spatial",
+    "simple_prompt": "a giraffe on the left of a lamp",
+    "smart_prompt": "A giraffe on the left, a lamp on the right, simple background."
+  },
+  {
+    "id": "Spatial_46",
+    "category": "Spatial",
+    "simple_prompt": "a bag on the right of a butterfly",
+    "smart_prompt": "A butterfly on the left, a bag on the right, simple background."
+  },
+  {
+    "id": "Spatial_47",
+    "category": "Spatial",
+    "simple_prompt": "a bicycle on the top of a chicken",
+    "smart_prompt": "A bicycle balanced on top of a chicken."
+  },
+  {
+    "id": "Spatial_48",
+    "category": "Spatial",
+    "simple_prompt": "a cow near a balloon",
+    "smart_prompt": "A cow near a balloon, side by side, simple background."
+  },
+  {
+    "id": "Spatial_49",
+    "category": "Spatial",
+    "simple_prompt": "a computer on the left of a pig",
+    "smart_prompt": "A computer on the left, a pig on the right, simple background."
+  },
+  {
+    "id": "Spatial_50",
+    "category": "Spatial",
+    "simple_prompt": "a cat on the bottom of a car",
+    "smart_prompt": "A cat hiding underneath a car."
+  },
+  {
+    "id": "Spatial_51",
+    "category": "Spatial",
+    "simple_prompt": "a giraffe on the right of a phone",
+    "smart_prompt": "A phone on the left, a giraffe on the right, simple background."
+  },
+  {
+    "id": "Spatial_52",
+    "category": "Spatial",
+    "simple_prompt": "a person on the left of a microwave",
+    "smart_prompt": "A person on the left, a microwave on the right, simple background."
+  },
+  {
+    "id": "Spatial_53",
+    "category": "Spatial",
+    "simple_prompt": "a microwave on the bottom of a rabbit",
+    "smart_prompt": "A rabbit sitting on top of a microwave."
+  },
+  {
+    "id": "Spatial_54",
+    "category": "Spatial",
+    "simple_prompt": "a cat near a table",
+    "smart_prompt": "A cat near a table, simple background."
+  },
+  {
+    "id": "Spatial_55",
+    "category": "Spatial",
+    "simple_prompt": "a wallet on the right of a dog",
+    "smart_prompt": "A dog on the left, a wallet on the right, simple background."
+  },
+  {
+    "id": "Spatial_56",
+    "category": "Spatial",
+    "simple_prompt": "a sheep on the top of a backpack",
+    "smart_prompt": "A small sheep standing on top of a backpack."
+  },
+  {
+    "id": "Spatial_57",
+    "category": "Spatial",
+    "simple_prompt": "a vase on the bottom of a chicken",
+    "smart_prompt": "A chicken sitting on top of a vase."
+  },
+  {
+    "id": "Spatial_58",
+    "category": "Spatial",
+    "simple_prompt": "a man on the right of a plate",
+    "smart_prompt": "A plate on the left, a man on the right, simple background."
+  },
+  {
+    "id": "Spatial_59",
+    "category": "Spatial",
+    "simple_prompt": "a pig on side of a wallet",
+    "smart_prompt": "A pig next to a wallet, side by side, simple background."
+  },
+  {
+    "id": "Spatial_60",
+    "category": "Spatial",
+    "simple_prompt": "a sofa on the top of a boy",
+    "smart_prompt": "A sofa on top of a boy, sofa top, boy bottom, simple background."
+  },
+  {
+    "id": "Spatial_61",
+    "category": "Spatial",
+    "simple_prompt": "a key on the top of a frog",
+    "smart_prompt": "A key resting on the back of a frog."
+  },
+  {
+    "id": "Spatial_62",
+    "category": "Spatial",
+    "simple_prompt": "a bird on the bottom of a suitcase",
+    "smart_prompt": "A suitcase lying on top of a bird."
+  },
+  {
+    "id": "Spatial_63",
+    "category": "Spatial",
+    "simple_prompt": "a train on the top of a woman",
+    "smart_prompt": "A train crushing a woman."
+  },
+  {
+    "id": "Spatial_64",
+    "category": "Spatial",
+    "simple_prompt": "a pig on the right of a computer",
+    "smart_prompt": "A computer on the left, a pig on the right, simple background."
+  },
+  {
+    "id": "Spatial_65",
+    "category": "Spatial",
+    "simple_prompt": "a painting on the right of a woman",
+    "smart_prompt": "A high-resolution oil painting on the right, capturing a beautiful woman."
+  },
+  {
+    "id": "Spatial_66",
+    "category": "Spatial",
+    "simple_prompt": "a bicycle on the left of a girl",
+    "smart_prompt": "A bicycle on the left, a girl on the right, simple background."
+  },
+  {
+    "id": "Spatial_67",
+    "category": "Spatial",
+    "simple_prompt": "a refrigerator on the bottom of a dog",
+    "smart_prompt": "A dog sitting on top of a refrigerator."
+  },
+  {
+    "id": "Spatial_68",
+    "category": "Spatial",
+    "simple_prompt": "a television on the left of a cow",
+    "smart_prompt": "A television on the left, a cow on the right, simple background."
+  },
+  {
+    "id": "Spatial_69",
+    "category": "Spatial",
+    "simple_prompt": "a giraffe near a key",
+    "smart_prompt": "A giraffe standing next to a giant key."
+  },
+  {
+    "id": "Spatial_70",
+    "category": "Spatial",
+    "simple_prompt": "a television on the left of a fish",
+    "smart_prompt": "A television on the left, a fish on the right, simple background."
+  },
+  {
+    "id": "Spatial_71",
+    "category": "Spatial",
+    "simple_prompt": "a man on side of a clock",
+    "smart_prompt": "A man standing next to a clock, side by side."
+  },
+  {
+    "id": "Spatial_72",
+    "category": "Spatial",
+    "simple_prompt": "a painting on the left of a horse",
+    "smart_prompt": "A painting on the left, a horse on the right, simple background."
+  },
+  {
+    "id": "Spatial_73",
+    "category": "Spatial",
+    "simple_prompt": "a wallet on the top of a person",
+    "smart_prompt": "A giant wallet on top of a person."
+  },
+  {
+    "id": "Spatial_74",
+    "category": "Spatial",
+    "simple_prompt": "a bee on the left of a phone",
+    "smart_prompt": "A bee on the left, a phone on the right, simple background."
+  },
+  {
+    "id": "Spatial_75",
+    "category": "Spatial",
+    "simple_prompt": "a car on the top of a turtle",
+    "smart_prompt": "A car balancing on top of a turtle."
+  },
+  {
+    "id": "Spatial_76",
+    "category": "Spatial",
+    "simple_prompt": "a person next to a airplane",
+    "smart_prompt": "Full-shot, a man in a pilot uniform stands next to a vintage airplane on a runway, sunny."
+  },
+  {
+    "id": "Spatial_77",
+    "category": "Spatial",
+    "simple_prompt": "a rabbit next to a microwave",
+    "smart_prompt": "A rabbit sitting next to a microwave."
+  },
+  {
+    "id": "Spatial_78",
+    "category": "Spatial",
+    "simple_prompt": "a bowl on the left of a man",
+    "smart_prompt": "A bowl on the left, a man on the right, simple background."
+  },
+  {
+    "id": "Spatial_79",
+    "category": "Spatial",
+    "simple_prompt": "a boy on the bottom of a lamp",
+    "smart_prompt": "A lamp hanging above a boy."
+  },
+  {
+    "id": "Spatial_80",
+    "category": "Spatial",
+    "simple_prompt": "a cat on side of a vase",
+    "smart_prompt": "A domestic ginger cat, with a fluffy tail, perched delicately on the side of an ornate, blue ceramic vase."
+  },
+  {
+    "id": "Spatial_81",
+    "category": "Spatial",
+    "simple_prompt": "a sheep on the left of a wallet",
+    "smart_prompt": "A sheep on the left, a wallet on the right, simple background."
+  },
+  {
+    "id": "Spatial_82",
+    "category": "Spatial",
+    "simple_prompt": "a pig on the left of a couch",
+    "smart_prompt": "A pig on the left, a couch on the right, simple background."
+  },
+  {
+    "id": "Spatial_83",
+    "category": "Spatial",
+    "simple_prompt": "a pig on the left of a sofa",
+    "smart_prompt": "A pig on the left, a sofa on the right, simple background."
+  },
+  {
+    "id": "Spatial_84",
+    "category": "Spatial",
+    "simple_prompt": "a train on the right of a boy",
+    "smart_prompt": "A boy on the left, a train on the right, simple background."
+  },
+  {
+    "id": "Spatial_85",
+    "category": "Spatial",
+    "simple_prompt": "a couch on the left of a bird",
+    "smart_prompt": "A couch on the left, a bird on the right, simple background."
+  },
+  {
+    "id": "Spatial_86",
+    "category": "Spatial",
+    "simple_prompt": "a lamp on the bottom of a bee",
+    "smart_prompt": "A bee flying above a lamp."
+  },
+  {
+    "id": "Spatial_87",
+    "category": "Spatial",
+    "simple_prompt": "a woman next to a computer",
+    "smart_prompt": "A young woman, late 20s, focused, working on a sleek desktop computer in a modern, sunlit home office."
+  },
+  {
+    "id": "Spatial_88",
+    "category": "Spatial",
+    "simple_prompt": "a frog on side of a cup",
+    "smart_prompt": "A frog next to a cup, side by side, simple background."
+  },
+  {
+    "id": "Spatial_89",
+    "category": "Spatial",
+    "simple_prompt": "a giraffe on the left of a candle",
+    "smart_prompt": "A giraffe on the left, a candle on the right, simple background."
+  },
+  {
+    "id": "Spatial_90",
+    "category": "Spatial",
+    "simple_prompt": "a sheep next to a desk",
+    "smart_prompt": "A sheep standing next to a desk."
+  },
+  {
+    "id": "Spatial_91",
+    "category": "Spatial",
+    "simple_prompt": "a man on the top of a candle",
+    "smart_prompt": "A man standing on top of a giant candle."
+  },
+  {
+    "id": "Spatial_92",
+    "category": "Spatial",
+    "simple_prompt": "a suitcase on the top of a sheep",
+    "smart_prompt": "A suitcase strapped to the back of a sheep."
+  },
+  {
+    "id": "Spatial_93",
+    "category": "Spatial",
+    "simple_prompt": "a man on the bottom of a car",
+    "smart_prompt": "Full-body shot of a mechanic lying on a creeper, positioned directly beneath a car's chassis, viewed from a low angle."
+  },
+  {
+    "id": "Spatial_94",
+    "category": "Spatial",
+    "simple_prompt": "a woman on the left of a television",
+    "smart_prompt": "A woman on the left, a television on the right, simple background."
+  },
+  {
+    "id": "Spatial_95",
+    "category": "Spatial",
+    "simple_prompt": "a key on the top of a horse",
+    "smart_prompt": "A vintage brass key sits atop a miniature, anatomically correct horse figurine, rendered in high detail."
+  },
+  {
+    "id": "Spatial_96",
+    "category": "Spatial",
+    "simple_prompt": "a fish near a sofa",
+    "smart_prompt": "A vibrant goldfish swims mid-air near a plush, modern sofa, with sunlight streaming through a window."
+  },
+  {
+    "id": "Spatial_97",
+    "category": "Spatial",
+    "simple_prompt": "a microwave on the top of a sheep",
+    "smart_prompt": "A microwave balanced on the back of a sheep."
+  },
+  {
+    "id": "Spatial_98",
+    "category": "Spatial",
+    "simple_prompt": "a man on the right of a book",
+    "smart_prompt": "A book on the left, a man on the right, simple background."
+  },
+  {
+    "id": "Spatial_99",
+    "category": "Spatial",
+    "simple_prompt": "a computer on the bottom of a butterfly",
+    "smart_prompt": "A butterfly landing on top of a computer."
+  },
+  {
+    "id": "Numeracy_0",
+    "category": "Numeracy",
+    "simple_prompt": "four trucks",
+    "smart_prompt": "Four trucks parked in a row."
+  },
+  {
+    "id": "Numeracy_1",
+    "category": "Numeracy",
+    "simple_prompt": "two cups",
+    "smart_prompt": "High-resolution photo of two porcelain coffee cups, white, on a wooden table, soft studio lighting."
+  },
+  {
+    "id": "Numeracy_2",
+    "category": "Numeracy",
+    "simple_prompt": "six bowls",
+    "smart_prompt": "Six bowls, 6 bowls, isolated on white background."
+  },
+  {
+    "id": "Numeracy_3",
+    "category": "Numeracy",
+    "simple_prompt": "two plates",
+    "smart_prompt": "Two pristine white ceramic plates, round, stacked on a wooden table, soft studio lighting."
+  },
+  {
+    "id": "Numeracy_4",
+    "category": "Numeracy",
+    "simple_prompt": "three paddles",
+    "smart_prompt": "Three paddles, 3 paddles, isolated on white background."
+  },
+  {
+    "id": "Numeracy_5",
+    "category": "Numeracy",
+    "simple_prompt": "one toy",
+    "smart_prompt": "A single, adorable plush toy sits on a clean wooden table, soft studio lighting."
+  },
+  {
+    "id": "Numeracy_6",
+    "category": "Numeracy",
+    "simple_prompt": "three chairs",
+    "smart_prompt": "Three chairs, 3 chairs, isolated on white background."
+  },
+  {
+    "id": "Numeracy_7",
+    "category": "Numeracy",
+    "simple_prompt": "seven cameras",
+    "smart_prompt": "A collection of seven cameras arranged in a neat grid."
+  },
+  {
+    "id": "Numeracy_8",
+    "category": "Numeracy",
+    "simple_prompt": "eight guitars",
+    "smart_prompt": "Eight guitars, 8 guitars, isolated on white background."
+  },
+  {
+    "id": "Numeracy_9",
+    "category": "Numeracy",
+    "simple_prompt": "five girls",
+    "smart_prompt": "Full shot of five diverse girls, 18-20 years old, smiling, outdoors, natural lighting, highly detailed."
+  },
+  {
+    "id": "Numeracy_10",
+    "category": "Numeracy",
+    "simple_prompt": "three horses",
+    "smart_prompt": "Three majestic horses, a chestnut, a palomino, and a black stallion, galloping across an open field at sunset."
+  },
+  {
+    "id": "Numeracy_11",
+    "category": "Numeracy",
+    "simple_prompt": "five boys",
+    "smart_prompt": "Five boys standing in a line."
+  },
+  {
+    "id": "Numeracy_12",
+    "category": "Numeracy",
+    "simple_prompt": "three deer",
+    "smart_prompt": "Three deer, 3 deer, isolated on white background."
+  },
+  {
+    "id": "Numeracy_13",
+    "category": "Numeracy",
+    "simple_prompt": "six birds",
+    "smart_prompt": "Six birds, 6 birds, isolated on white background."
+  },
+  {
+    "id": "Numeracy_14",
+    "category": "Numeracy",
+    "simple_prompt": "one key",
+    "smart_prompt": "A single, antique brass key, weathered with a verdigris patina, resting on a worn, dark wooden surface."
+  },
+  {
+    "id": "Numeracy_15",
+    "category": "Numeracy",
+    "simple_prompt": "one chicken",
+    "smart_prompt": "A single, majestic white chicken, detailed feathers, standing in a vibrant green meadow under soft sunlight."
+  },
+  {
+    "id": "Numeracy_16",
+    "category": "Numeracy",
+    "simple_prompt": "three women",
+    "smart_prompt": "Full-shot of three diverse women, mid-20s to early-30s, smiling confidently in a sunlit park."
+  },
+  {
+    "id": "Numeracy_17",
+    "category": "Numeracy",
+    "simple_prompt": "eight bears",
+    "smart_prompt": "Eight bears arranged in a row."
+  },
+  {
+    "id": "Numeracy_18",
+    "category": "Numeracy",
+    "simple_prompt": "two bicycles",
+    "smart_prompt": "Two vintage bicycles, one red, one blue, leaning against a brick wall, dappled sunlight."
+  },
+  {
+    "id": "Numeracy_19",
+    "category": "Numeracy",
+    "simple_prompt": "two apples",
+    "smart_prompt": "Two apples, 2 apples, isolated on white background."
+  },
+  {
+    "id": "Numeracy_20",
+    "category": "Numeracy",
+    "simple_prompt": "eight keys",
+    "smart_prompt": "Eight keys arranged in a grid pattern."
+  },
+  {
+    "id": "Numeracy_21",
+    "category": "Numeracy",
+    "simple_prompt": "one rabbit",
+    "smart_prompt": "A fluffy white rabbit with long ears, black eyes, and a twitching nose, sitting in green grass."
+  },
+  {
+    "id": "Numeracy_22",
+    "category": "Numeracy",
+    "simple_prompt": "seven books",
+    "smart_prompt": "A stack of seven books."
+  },
+  {
+    "id": "Numeracy_23",
+    "category": "Numeracy",
+    "simple_prompt": "six pigs",
+    "smart_prompt": "Six pigs standing in a line."
+  },
+  {
+    "id": "Numeracy_24",
+    "category": "Numeracy",
+    "simple_prompt": "two bottles",
+    "smart_prompt": "Two bottles, 2 bottles, isolated on white background."
+  },
+  {
+    "id": "Numeracy_25",
+    "category": "Numeracy",
+    "simple_prompt": "one cake",
+    "smart_prompt": "A single, decadent chocolate cake, perfectly round, with rich frosting, and a cherry on top."
+  },
+  {
+    "id": "Numeracy_26",
+    "category": "Numeracy",
+    "simple_prompt": "two deer",
+    "smart_prompt": "Majestic adult male and female deer standing in a sunlit forest, highly detailed fur, antlers, and natural lighting."
+  },
+  {
+    "id": "Numeracy_27",
+    "category": "Numeracy",
+    "simple_prompt": "six phones",
+    "smart_prompt": "Six phones arranged in a neat grid."
+  },
+  {
+    "id": "Numeracy_28",
+    "category": "Numeracy",
+    "simple_prompt": "one computer",
+    "smart_prompt": "High-angle shot of a sleek, modern desktop computer with a glowing monitor, on a minimalist desk."
+  },
+  {
+    "id": "Numeracy_29",
+    "category": "Numeracy",
+    "simple_prompt": "seven sofas",
+    "smart_prompt": "A showroom with seven sofas."
+  },
+  {
+    "id": "Numeracy_30",
+    "category": "Numeracy",
+    "simple_prompt": "five horses",
+    "smart_prompt": "Five horses, 5 horses, isolated on white background."
+  },
+  {
+    "id": "Numeracy_31",
+    "category": "Numeracy",
+    "simple_prompt": "three helicopters",
+    "smart_prompt": "Three military helicopters, detailed, flying in formation, with a sunset background, golden hour lighting."
+  },
+  {
+    "id": "Numeracy_32",
+    "category": "Numeracy",
+    "simple_prompt": "eight televisions",
+    "smart_prompt": "A wall of eight televisions."
+  },
+  {
+    "id": "Numeracy_33",
+    "category": "Numeracy",
+    "simple_prompt": "six bags",
+    "smart_prompt": "Six bags lined up on the floor."
+  },
+  {
+    "id": "Numeracy_34",
+    "category": "Numeracy",
+    "simple_prompt": "six apples",
+    "smart_prompt": "Six apples arranged in a neat 2x3 grid."
+  },
+  {
+    "id": "Numeracy_35",
+    "category": "Numeracy",
+    "simple_prompt": "five pigs",
+    "smart_prompt": "Five pink, chubby piglets, cartoon style, with curly tails, happily playing in a muddy puddle under a blue sky."
+  },
+  {
+    "id": "Numeracy_36",
+    "category": "Numeracy",
+    "simple_prompt": "two boats",
+    "smart_prompt": "Two boats, 2 boats, isolated on white background."
+  },
+  {
+    "id": "Numeracy_37",
+    "category": "Numeracy",
+    "simple_prompt": "seven men",
+    "smart_prompt": "Full-shot, seven diverse men, 30s-40s, varied casual attire, standing naturally against a blurred urban backdrop, soft daylight."
+  },
+  {
+    "id": "Numeracy_38",
+    "category": "Numeracy",
+    "simple_prompt": "seven plates",
+    "smart_prompt": "Seven plates arranged on a table."
+  },
+  {
+    "id": "Numeracy_39",
+    "category": "Numeracy",
+    "simple_prompt": "three stools",
+    "smart_prompt": "Three stools arranged in a row."
+  },
+  {
+    "id": "Numeracy_40",
+    "category": "Numeracy",
+    "simple_prompt": "two breads",
+    "smart_prompt": "A studio shot of two freshly baked artisan sourdough breads, golden crust, flour dusting, rustic."
+  },
+  {
+    "id": "Numeracy_41",
+    "category": "Numeracy",
+    "simple_prompt": "seven birds",
+    "smart_prompt": "Seven birds, 7 birds, isolated on white background."
+  },
+  {
+    "id": "Numeracy_42",
+    "category": "Numeracy",
+    "simple_prompt": "two televisions",
+    "smart_prompt": "Two vintage, box-shaped televisions, side-by-side, displaying static, in a dimly lit room."
+  },
+  {
+    "id": "Numeracy_43",
+    "category": "Numeracy",
+    "simple_prompt": "six lemons",
+    "smart_prompt": "Six lemons arranged in a circle."
+  },
+  {
+    "id": "Numeracy_44",
+    "category": "Numeracy",
+    "simple_prompt": "seven tables",
+    "smart_prompt": "Seven tables arranged in a room."
+  },
+  {
+    "id": "Numeracy_45",
+    "category": "Numeracy",
+    "simple_prompt": "three mice",
+    "smart_prompt": "Three adorable, fluffy mice with large ears and long tails, standing on a wooden table."
+  },
+  {
+    "id": "Numeracy_46",
+    "category": "Numeracy",
+    "simple_prompt": "three toys",
+    "smart_prompt": "Three toys, 3 toys, isolated on white background."
+  },
+  {
+    "id": "Numeracy_47",
+    "category": "Numeracy",
+    "simple_prompt": "five paintings",
+    "smart_prompt": "Five paintings hanging on a wall."
+  },
+  {
+    "id": "Numeracy_48",
+    "category": "Numeracy",
+    "simple_prompt": "two chickens",
+    "smart_prompt": "Two fluffy yellow chicks, high detail, realistic, standing on a wooden farm fence, golden hour."
+  },
+  {
+    "id": "Numeracy_49",
+    "category": "Numeracy",
+    "simple_prompt": "seven chairs",
+    "smart_prompt": "Seven chairs arranged in a circle."
+  },
+  {
+    "id": "Numeracy_50",
+    "category": "Numeracy",
+    "simple_prompt": "six hamburgers",
+    "smart_prompt": "Six gourmet hamburgers, beef patties, sesame seed buns, cheese, lettuce, tomato, photorealistic, studio lighting."
+  },
+  {
+    "id": "Numeracy_51",
+    "category": "Numeracy",
+    "simple_prompt": "seven hamburgers",
+    "smart_prompt": "Seven hamburgers arranged on a tray."
+  },
+  {
+    "id": "Numeracy_52",
+    "category": "Numeracy",
+    "simple_prompt": "eight knives",
+    "smart_prompt": "A high-angle, close-up shot of eight ornate, glistening steel knives with dark, ergonomic handles, arranged in a precise, fanned semicircle on a rustic wooden table."
+  },
+  {
+    "id": "Numeracy_53",
+    "category": "Numeracy",
+    "simple_prompt": "five bowls",
+    "smart_prompt": "Five bowls stacked on a table."
+  },
+  {
+    "id": "Numeracy_54",
+    "category": "Numeracy",
+    "simple_prompt": "three girls",
+    "smart_prompt": "Full shot of three diverse teenage girls, smiling, walking in a park, golden hour, photorealistic."
+  },
+  {
+    "id": "Numeracy_55",
+    "category": "Numeracy",
+    "simple_prompt": "eight sinks",
+    "smart_prompt": "Eight sinks installed in a row."
+  },
+  {
+    "id": "Numeracy_56",
+    "category": "Numeracy",
+    "simple_prompt": "four tomatoes",
+    "smart_prompt": "Close-up, four ripe, vibrant red tomatoes, glistening with dew, on a rustic wooden surface."
+  },
+  {
+    "id": "Numeracy_57",
+    "category": "Numeracy",
+    "simple_prompt": "six stools",
+    "smart_prompt": "Six stools, 6 stools, isolated on white background."
+  },
+  {
+    "id": "Numeracy_58",
+    "category": "Numeracy",
+    "simple_prompt": "two pigs",
+    "smart_prompt": "Two pigs, 2 pigs, isolated on white background."
+  },
+  {
+    "id": "Numeracy_59",
+    "category": "Numeracy",
+    "simple_prompt": "six suitcases",
+    "smart_prompt": "Six vintage leather suitcases, stacked neatly, studio lighting, high detail, realistic photo."
+  },
+  {
+    "id": "Numeracy_60",
+    "category": "Numeracy",
+    "simple_prompt": "six sofas",
+    "smart_prompt": "Six sofas arranged in a showroom."
+  },
+  {
+    "id": "Numeracy_61",
+    "category": "Numeracy",
+    "simple_prompt": "seven bicycles",
+    "smart_prompt": "Seven bicycles parked in a row."
+  },
+  {
+    "id": "Numeracy_62",
+    "category": "Numeracy",
+    "simple_prompt": "two paddles",
+    "smart_prompt": "Two paddles, 2 paddles, isolated on white background."
+  },
+  {
+    "id": "Numeracy_63",
+    "category": "Numeracy",
+    "simple_prompt": "three printers",
+    "smart_prompt": "Three printers, Canon Pixma style, in a row on a white table, studio lighting."
+  },
+  {
+    "id": "Numeracy_64",
+    "category": "Numeracy",
+    "simple_prompt": "five cameras",
+    "smart_prompt": "Five cameras arranged in a neat line."
+  },
+  {
+    "id": "Numeracy_65",
+    "category": "Numeracy",
+    "simple_prompt": "two helmets",
+    "smart_prompt": "Two futuristic, sleek, chrome motorcycle helmets, one red, one blue, side-by-side on a reflective surface."
+  },
+  {
+    "id": "Numeracy_66",
+    "category": "Numeracy",
+    "simple_prompt": "seven goldfish",
+    "smart_prompt": "Seven goldfish swimming in a tank."
+  },
+  {
+    "id": "Numeracy_67",
+    "category": "Numeracy",
+    "simple_prompt": "three couches",
+    "smart_prompt": "Three couches arranged in a living room."
+  },
+  {
+    "id": "Numeracy_68",
+    "category": "Numeracy",
+    "simple_prompt": "three trains",
+    "smart_prompt": "Three toy trains lined up."
+  },
+  {
+    "id": "Numeracy_69",
+    "category": "Numeracy",
+    "simple_prompt": "two shrimp",
+    "smart_prompt": "Two shrimp arranged on a plate."
+  },
+  {
+    "id": "Numeracy_70",
+    "category": "Numeracy",
+    "simple_prompt": "three hamburgers",
+    "smart_prompt": "Three hamburgers arranged in a row."
+  },
+  {
+    "id": "Numeracy_71",
+    "category": "Numeracy",
+    "simple_prompt": "four plates",
+    "smart_prompt": "Four plates laid out on a table."
+  },
+  {
+    "id": "Numeracy_72",
+    "category": "Numeracy",
+    "simple_prompt": "eight boats",
+    "smart_prompt": "Eight boats docked at a marina."
+  },
+  {
+    "id": "Numeracy_73",
+    "category": "Numeracy",
+    "simple_prompt": "three desks",
+    "smart_prompt": "Three desks, 3 desks, isolated on white background."
+  },
+  {
+    "id": "Numeracy_74",
+    "category": "Numeracy",
+    "simple_prompt": "six desks",
+    "smart_prompt": "Six desks arranged in a classroom."
+  },
+  {
+    "id": "Numeracy_75",
+    "category": "Numeracy",
+    "simple_prompt": "six cups",
+    "smart_prompt": "Six cups, 6 cups, isolated on white background."
+  },
+  {
+    "id": "Numeracy_76",
+    "category": "Numeracy",
+    "simple_prompt": "one bird",
+    "smart_prompt": "A single, majestic kingfisher perches on a mossy branch, vibrant blue plumage shimmering in soft sunlight."
+  },
+  {
+    "id": "Numeracy_77",
+    "category": "Numeracy",
+    "simple_prompt": "one microwave",
+    "smart_prompt": "One microwave, 1 microwave, isolated on white background."
+  },
+  {
+    "id": "Numeracy_78",
+    "category": "Numeracy",
+    "simple_prompt": "five cows",
+    "smart_prompt": "A row of five cows."
+  },
+  {
+    "id": "Numeracy_79",
+    "category": "Numeracy",
+    "simple_prompt": "six shrimp",
+    "smart_prompt": "Six shrimp arranged in a circle."
+  },
+  {
+    "id": "Numeracy_80",
+    "category": "Numeracy",
+    "simple_prompt": "four desks",
+    "smart_prompt": "Four desks, 4 desks, isolated on white background."
+  },
+  {
+    "id": "Numeracy_81",
+    "category": "Numeracy",
+    "simple_prompt": "five lamps",
+    "smart_prompt": "Five lamps arranged in a row."
+  },
+  {
+    "id": "Numeracy_82",
+    "category": "Numeracy",
+    "simple_prompt": "three bananas",
+    "smart_prompt": "Three bananas arranged in a row."
+  },
+  {
+    "id": "Numeracy_83",
+    "category": "Numeracy",
+    "simple_prompt": "three eggs",
+    "smart_prompt": "Three eggs, 3 eggs, isolated on white background."
+  },
+  {
+    "id": "Numeracy_84",
+    "category": "Numeracy",
+    "simple_prompt": "two giraffes",
+    "smart_prompt": "Two giraffes standing together."
+  },
+  {
+    "id": "Numeracy_85",
+    "category": "Numeracy",
+    "simple_prompt": "two birds",
+    "smart_prompt": "Two birds, 2 birds, isolated on white background."
+  },
+  {
+    "id": "Numeracy_86",
+    "category": "Numeracy",
+    "simple_prompt": "eight desks",
+    "smart_prompt": "Eight desks arranged in a grid."
+  },
+  {
+    "id": "Numeracy_87",
+    "category": "Numeracy",
+    "simple_prompt": "one desk",
+    "smart_prompt": "A sleek, modern wooden desk, perfectly lit, empty. High detail, photorealistic, studio lighting."
+  },
+  {
+    "id": "Numeracy_88",
+    "category": "Numeracy",
+    "simple_prompt": "six computers",
+    "smart_prompt": "Six computers, 6 computers, isolated on white background."
+  },
+  {
+    "id": "Numeracy_89",
+    "category": "Numeracy",
+    "simple_prompt": "seven helicopters",
+    "smart_prompt": "Seven helicopters flying in formation."
+  },
+  {
+    "id": "Numeracy_90",
+    "category": "Numeracy",
+    "simple_prompt": "four pears",
+    "smart_prompt": "Four pears arranged in a line."
+  },
+  {
+    "id": "Numeracy_91",
+    "category": "Numeracy",
+    "simple_prompt": "three tomatoes",
+    "smart_prompt": "Three tomatoes, 3 tomatoes, isolated on white background."
+  },
+  {
+    "id": "Numeracy_92",
+    "category": "Numeracy",
+    "simple_prompt": "one apple",
+    "smart_prompt": "A single, vibrant red apple, perfectly round, with a slight sheen, resting on a rustic wooden table."
+  },
+  {
+    "id": "Numeracy_93",
+    "category": "Numeracy",
+    "simple_prompt": "eight bowls",
+    "smart_prompt": "Eight bowls, 8 bowls, isolated on white background."
+  },
+  {
+    "id": "Numeracy_94",
+    "category": "Numeracy",
+    "simple_prompt": "six tents",
+    "smart_prompt": "Six tents set up in a field."
+  },
+  {
+    "id": "Numeracy_95",
+    "category": "Numeracy",
+    "simple_prompt": "six pears",
+    "smart_prompt": "Six pears, 6 pears, isolated on white background."
+  },
+  {
+    "id": "Numeracy_96",
+    "category": "Numeracy",
+    "simple_prompt": "eight mice",
+    "smart_prompt": "Eight mice arranged in a circle."
+  },
+  {
+    "id": "Numeracy_97",
+    "category": "Numeracy",
+    "simple_prompt": "five bicycles",
+    "smart_prompt": "Five bicycles parked in a row."
+  },
+  {
+    "id": "Numeracy_98",
+    "category": "Numeracy",
+    "simple_prompt": "seven candles",
+    "smart_prompt": "Seven candles lined up on a shelf."
+  },
+  {
+    "id": "Numeracy_99",
+    "category": "Numeracy",
+    "simple_prompt": "two strawberries",
+    "smart_prompt": "Two strawberries arranged side by side."
+  }
+]

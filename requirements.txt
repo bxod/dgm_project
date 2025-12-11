@@ -1,0 +1,5 @@
+accelerate
+qwen-vl-utils
+transformers
+diffusers
+google-genai
